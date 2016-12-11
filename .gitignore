@@ -2,3 +2,4 @@
 *.swp
 local_settings.py
 *.egg-info
+*.DS_Store
