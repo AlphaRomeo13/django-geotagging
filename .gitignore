@@ -3,3 +3,15 @@
 local_settings.py
 *.egg-info
 *.DS_Store
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".\\tests",
+        "-p",
+        "*test*.py"
+    ]
+,
+"python.unitTest.unittestEnabled": true
+}
+\ No newline at end of file
